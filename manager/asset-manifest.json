@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/manager/static/css/main.34971b62.css",
-    "main.js": "/manager/static/js/main.8312f9c7.js",
+    "main.js": "/manager/static/js/main.d78afacb.js",
     "static/js/52.2223930c.chunk.js": "/manager/static/js/52.2223930c.chunk.js",
     "static/js/760.27bcb55c.chunk.js": "/manager/static/js/760.27bcb55c.chunk.js",
     "static/js/239.938c6172.chunk.js": "/manager/static/js/239.938c6172.chunk.js",
     "static/media/ZONE_A.png": "/manager/static/media/ZONE_A.7d5444770beb5ee413dd.png",
     "static/media/login.png": "/manager/static/media/login.ae23a0133b9d2ebf4aae.png",
-    "static/media/logo_full.svg": "/manager/static/media/logo_full.dad0949a3cdd36e6671f71d31c97a0f8.svg",
     "static/media/download.png": "/manager/static/media/download.35e58a86a8f4a7c7799d.png",
     "static/media/circle.png": "/manager/static/media/circle.d3de8ef5646800e3024d.png",
     "static/media/drow.png": "/manager/static/media/drow.92674809834584976457.png",
     "static/media/zoom-in.png": "/manager/static/media/zoom-in.3fe9ddeeda5825f8239f.png",
     "static/media/zoom-out.png": "/manager/static/media/zoom-out.294a180d82c977be212c.png",
+    "static/media/logo_full.svg": "/manager/static/media/logo_full.04a8aa13a39753cdaa5467be0c706eae.svg",
     "static/media/eraser.png": "/manager/static/media/eraser.f152f67b033d9d3628a4.png",
     "index.html": "/manager/index.html"
   },
   "entrypoints": [
     "static/css/main.34971b62.css",
-    "static/js/main.8312f9c7.js"
+    "static/js/main.d78afacb.js"
   ]
 }
